@@ -1,3 +1,8 @@
+# TODO
+add more encoding method : base58.. etc
+transfer to python3
+
+
 # Decodify
 It can detect and decode encoded strings, recursively.\
 Lets take this string : `s0md3v` and encode it in Base 64
