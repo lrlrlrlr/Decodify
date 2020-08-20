@@ -1,6 +1,6 @@
 # TODO
-add more encoding method : base58.. etc
-transfer to python3
+ - add more encoding method : base58.. etc
+ - transfer to python3
 
 
 # Decodify
